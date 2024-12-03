@@ -59,7 +59,7 @@ async function hora(data) {
 
 //Acredito ter redundancia no caminho (path), mas ainda assim acredito que seria zerado o path e so mudar quando coincidir com a condicao  nesse caso apenas vai atualizar quando mudado
 
-// Função para alterar o background com base no clima e na hora
+// Função (indisponivel) para alterar o background com base no clima e na hora
 /* 
 async function setBack(data, hour) {
     
